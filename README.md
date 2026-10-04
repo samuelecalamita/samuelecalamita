@@ -4,7 +4,7 @@
 
 ```ts
 const samu = {
-  experience: "10+ years",
+  experience: "10~ years",
   focus: ["Frontend Engineering", "TypeScript", "Design Systems"],
   values: ["Accessibility", "Performance", "UI quality", "Maintainability"],
   languages: ["Italian 🇮🇹", "German 🇩🇪", "English 🇬🇧"],
