@@ -14,7 +14,7 @@ const samu = {
 
 I build web applications across **SPAs, CMS-driven platforms and enterprise projects**.
 
-My strong foundation in **JavaScript and TypeScript** lets me work confidently across different frontend stacks — with experience in **React, Vue, Angular and Web Components**.
+My strong foundation in **JavaScript and TypeScript** lets me work confidently across different frontend stacks with experience in **React, Vue, Angular and Web Components**.
 
 ---
 
@@ -36,7 +36,7 @@ Lately I've been exploring **AI-assisted development with tools like Codex and C
 
 I see AI as an accelerator, not a replacement for engineering judgment: I stay responsible for **architecture, technical decisions, code quality and direction**, while using AI to speed up implementation, exploration and iteration.
 
-In short: **human-led engineering, AI-accelerated execution — not blind vibe coding.**
+In short: **human-led engineering, AI-accelerated execution, not blind vibe coding.**
 
 ---
 
@@ -50,7 +50,7 @@ I'm increasingly interested in **full-stack development within the JavaScript / 
 
 ## `> ./work --public`
 
-Most of my professional work over the years lives in **private enterprise repositories**, so this profile doesn't tell the whole story — yet.
+Most of my professional work over the years lives in **private enterprise repositories**, so this profile doesn't tell the whole story. yet.
 
 I'm using GitHub more actively to share personal projects, experiments and examples of how I approach engineering.
 
